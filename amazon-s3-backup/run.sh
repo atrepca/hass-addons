@@ -36,3 +36,5 @@ else
 fi
 
 bashio::log.info "Finished Amazon S3 Backup."
+
+# ShellCheck test
